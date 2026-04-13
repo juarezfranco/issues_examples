@@ -1,0 +1,23 @@
+{
+    "activeFile": "",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+    },
+    "last.imagePath": "/Users/juarez/Projetos/issues_examples/bonfire_issue_600/bug/assets/TinySwords/Terrain/Resources/Wood/Trees",
+    "map.height": 10,
+    "map.lastUsedFormat": "json",
+    "map.tileHeight": 64,
+    "map.tileWidth": 64,
+    "map.width": 10,
+    "openFiles": [
+    ],
+    "project": "issue-example.tiled-project",
+    "recentFiles": [
+    ],
+    "tileset.lastUsedFormat": "json",
+    "tileset.tileSize": {
+        "height": 256,
+        "width": 192
+    }
+}

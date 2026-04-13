@@ -1,0 +1,53 @@
+{
+    "activeFile": "",
+    "expandedProjectPaths": [
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "Tilemap_color1.tsj": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tree1.tsj": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Water Background color.tsj": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Water Foam.tsj": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "map.json": {
+            "scale": 1.18,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 320.7627118644068,
+                "y": 292.7966101694915
+            }
+        }
+    },
+    "last.imagePath": "/Users/juarez/Projetos/issues_examples/bonfire_issue_600/bug/assets/images/TinySwords/Terrain/Tileset",
+    "map.height": 10,
+    "map.lastUsedFormat": "json",
+    "map.tileHeight": 64,
+    "map.tileWidth": 64,
+    "map.width": 10,
+    "openFiles": [
+    ],
+    "project": "issue-example.tiled-project",
+    "recentFiles": [
+        "Tree1.tsj",
+        "Water Foam.tsj",
+        "Water Background color.tsj",
+        "Tilemap_color1.tsj",
+        "map.json"
+    ],
+    "tileset.lastUsedFormat": "json",
+    "tileset.tileSize": {
+        "height": 64,
+        "width": 64
+    }
+}

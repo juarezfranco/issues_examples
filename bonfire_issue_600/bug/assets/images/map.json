@@ -1,0 +1,146 @@
+{ "compressionlevel":-1,
+ "height":10,
+ "infinite":false,
+ "layers":[
+        {
+         "data":[79, 79, 79, 79, 79, 79, 79, 79, 79, 79,
+            79, 79, 79, 79, 79, 79, 79, 79, 79, 79,
+            79, 79, 79, 79, 79, 79, 79, 79, 79, 79,
+            79, 79, 79, 79, 79, 79, 79, 79, 79, 79,
+            79, 79, 79, 79, 79, 79, 79, 79, 79, 79,
+            79, 79, 79, 79, 79, 79, 79, 79, 79, 79,
+            79, 79, 79, 79, 79, 79, 79, 79, 79, 79,
+            79, 79, 79, 79, 79, 79, 79, 79, 79, 79,
+            79, 79, 79, 79, 79, 79, 79, 79, 79, 79,
+            79, 79, 79, 79, 79, 79, 79, 79, 79, 79],
+         "height":10,
+         "id":1,
+         "name":"water",
+         "opacity":1,
+         "type":"tilelayer",
+         "visible":true,
+         "width":10,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 1, 1, 1, 1, 1, 1, 0, 0, 0,
+            0, 1, 0, 0, 0, 0, 1, 0, 0, 0,
+            0, 1, 0, 0, 0, 0, 1, 0, 0, 0,
+            0, 1, 0, 0, 0, 0, 1, 0, 0, 0,
+            0, 1, 0, 0, 0, 0, 1, 0, 0, 0,
+            0, 1, 1, 1, 1, 1, 1, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+         "height":10,
+         "id":2,
+         "name":"water_splash",
+         "opacity":1,
+         "properties":[
+                {
+                 "name":"type",
+                 "type":"string",
+                 "value":"layered"
+                }],
+         "type":"tilelayer",
+         "visible":true,
+         "width":10,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 17, 18, 18, 18, 18, 19, 0, 0,
+            0, 0, 26, 27, 27, 27, 27, 28, 0, 0,
+            0, 0, 26, 27, 27, 27, 27, 28, 0, 0,
+            0, 0, 26, 27, 27, 27, 27, 28, 0, 0,
+            0, 0, 26, 27, 27, 27, 27, 28, 0, 0,
+            0, 0, 35, 36, 36, 36, 36, 37, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+         "height":10,
+         "id":3,
+         "name":"terrain",
+         "opacity":1,
+         "type":"tilelayer",
+         "visible":true,
+         "width":10,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 71, 0, 72, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+         "height":10,
+         "id":4,
+         "name":"florest",
+         "opacity":1,
+         "type":"tilelayer",
+         "visible":true,
+         "width":10,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "draworder":"topdown",
+         "id":5,
+         "name":"checkpoints",
+         "objects":[
+                {
+                 "height":0,
+                 "id":1,
+                 "name":"initialPoint",
+                 "opacity":1,
+                 "point":true,
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":0,
+                 "x":350,
+                 "y":350.847457627119
+                }],
+         "opacity":1,
+         "type":"objectgroup",
+         "visible":true,
+         "x":0,
+         "y":0
+        }],
+ "nextlayerid":6,
+ "nextobjectid":3,
+ "orientation":"orthogonal",
+ "renderorder":"right-down",
+ "tiledversion":"1.12.1",
+ "tileheight":64,
+ "tilesets":[
+        {
+         "firstgid":1,
+         "source":"Water Foam.tsj"
+        }, 
+        {
+         "firstgid":17,
+         "source":"Tilemap_color1.tsj"
+        }, 
+        {
+         "firstgid":71,
+         "source":"Tree1.tsj"
+        }, 
+        {
+         "firstgid":79,
+         "source":"Water Background color.tsj"
+        }],
+ "tilewidth":64,
+ "type":"map",
+ "version":"1.10",
+ "width":10
+}

@@ -1,0 +1,14 @@
+{ "columns":1,
+ "image":"TinySwords\/Terrain\/Tileset\/Water Background color.png",
+ "imageheight":64,
+ "imagewidth":64,
+ "margin":0,
+ "name":"Water Background color",
+ "spacing":0,
+ "tilecount":1,
+ "tiledversion":"1.12.1",
+ "tileheight":64,
+ "tilewidth":64,
+ "type":"tileset",
+ "version":"1.10"
+}
